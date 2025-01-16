@@ -24,13 +24,6 @@ function App() {
 
 	return (
 		<div>
-			<p
-				style={{
-					fontSize: "1.2rem",
-				}}
-			>
-				{quote}
-			</p>
 			<button
 				style={{
 					cursor: "pointer",
@@ -42,6 +35,13 @@ function App() {
 			>
 				Generate
 			</button>
+			<p
+				style={{
+					fontSize: "1.2rem",
+				}}
+			>
+				{quote}
+			</p>
 		</div>
 	);
 }
