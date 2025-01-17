@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://11-random-quote-generator.vercel.app/)
+## ==> [🔥Live Demo](https://11-random-quote-react-problem.vercel.app//)
 
 Welcome to the **eleventh problem** of the React 30+ Practical Problems series! In this challenge, we will create a Random Quote Generator component.
 
